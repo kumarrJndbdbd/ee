@@ -27,7 +27,7 @@ async def start(update: Update, context: CallbackContext):
     message = (
         "*♻️WELCOME TO THE BATTLEFIELD! 🔥*\n\n"
         "*✅USE /attack <ip> <port> <duration>*\n"
-        "*🔗JOIN:- https://t.me/tabish ddos*"
+        "*🔗JOIN:- https://t.me/+SCgV7yRZK3Q3YTA1*"
         "*♻️ Let the war begin! ⚔️💥*"
     )
     await context.bot.send_message(chat_id=chat_id, text=message, parse_mode='Markdown')
